@@ -1,0 +1,13 @@
+{
+    "defaultSeverity": "error",
+    "extends": [
+        "tslint:recommended",
+        "prettier",
+        "prettier/@typescript-eslint"
+    ],
+    "jsRules": {},
+    "rules": {
+        "no-console": false
+    },
+    "rulesDirectory": []
+}
